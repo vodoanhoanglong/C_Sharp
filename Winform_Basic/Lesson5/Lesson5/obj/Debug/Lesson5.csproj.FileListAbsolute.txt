@@ -1,0 +1,12 @@
+D:\C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe.config
+D:\C#\Lesson5\Lesson5\bin\Debug\Lesson5.exe
+D:\C#\Lesson5\Lesson5\bin\Debug\Lesson5.pdb
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.AssemblyReference.cache
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.Properties.Resources.resources
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.GenerateResource.cache
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.csproj.CoreCompileInputs.cache
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.exe
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.pdb
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.HelloWorld.resources
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.BT1.resources
+D:\C#\Lesson5\Lesson5\obj\Debug\Lesson5.BT2.resources

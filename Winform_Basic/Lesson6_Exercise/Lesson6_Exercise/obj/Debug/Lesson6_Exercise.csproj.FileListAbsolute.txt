@@ -1,0 +1,11 @@
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.csproj.AssemblyReference.cache
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.Properties.Resources.resources
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.csproj.GenerateResource.cache
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.csproj.CoreCompileInputs.cache
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\bin\Debug\Lesson6_Exercise.exe.config
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\bin\Debug\Lesson6_Exercise.exe
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\bin\Debug\Lesson6_Exercise.pdb
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.exe
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.pdb
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.NhanVien.resources
+D:\C#\Lesson6_Exercise\Lesson6_Exercise\obj\Debug\Lesson6_Exercise.E_Order.resources

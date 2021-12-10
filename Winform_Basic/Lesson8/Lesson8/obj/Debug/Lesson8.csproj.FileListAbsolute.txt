@@ -1,0 +1,14 @@
+D:\C#\Lesson8\Lesson8\bin\Debug\Lesson8.exe.config
+D:\C#\Lesson8\Lesson8\bin\Debug\Lesson8.exe
+D:\C#\Lesson8\Lesson8\bin\Debug\Lesson8.pdb
+D:\C#\Lesson8\Lesson8\bin\Debug\EntityFramework.dll
+D:\C#\Lesson8\Lesson8\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Lesson8\Lesson8\bin\Debug\EntityFramework.xml
+D:\C#\Lesson8\Lesson8\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.AssemblyReference.cache
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.StudentForm.resources
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.Properties.Resources.resources
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.GenerateResource.cache
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.csproj.CoreCompileInputs.cache
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.exe
+D:\C#\Lesson8\Lesson8\obj\Debug\Lesson8.pdb

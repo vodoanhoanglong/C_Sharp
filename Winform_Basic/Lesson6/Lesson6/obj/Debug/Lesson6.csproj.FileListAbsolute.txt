@@ -1,0 +1,15 @@
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.AssemblyReference.cache
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.Properties.Resources.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.GenerateResource.cache
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.csproj.CoreCompileInputs.cache
+D:\C#\Lesson6\Lesson6\bin\Debug\Lesson6.exe.config
+D:\C#\Lesson6\Lesson6\bin\Debug\Lesson6.exe
+D:\C#\Lesson6\Lesson6\bin\Debug\Lesson6.pdb
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.exe
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.pdb
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.ProgressBar.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.DateTime.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.PictureBox.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.DataGrid.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.ListView.resources
+D:\C#\Lesson6\Lesson6\obj\Debug\Lesson6.MainMenu.resources

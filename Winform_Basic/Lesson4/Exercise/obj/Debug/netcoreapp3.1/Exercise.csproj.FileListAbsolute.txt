@@ -1,0 +1,14 @@
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.exe
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.deps.json
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.json
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.runtimeconfig.dev.json
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.dll
+D:\C#\Lesson4\Exercise\bin\Debug\netcoreapp3.1\Exercise.pdb
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.AssemblyReference.cache
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfoInputs.cache
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.AssemblyInfo.cs
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.csproj.CoreCompileInputs.cache
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.dll
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.pdb
+D:\C#\Lesson4\Exercise\obj\Debug\netcoreapp3.1\Exercise.genruntimeconfig.cache
